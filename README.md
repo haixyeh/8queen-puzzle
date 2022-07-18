@@ -1,5 +1,5 @@
-# 8queen-puzzle
-八皇后解法
+# N queen-puzzle
+N 皇后解法
 
 ### 以4皇后做解說：
 >- [0,0,0,0],
